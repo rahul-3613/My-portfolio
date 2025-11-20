@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](http://localhost:5173/)
+🔗 [View Portfolio Live](my-portfolio-two-chi-83.vercel.app)
 
 ## 🛠️ Tech Stack
 
