@@ -1,34 +1,33 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Rahul's Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This is **Rahul Shingha's personal portfolio**.
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://rahul-3613.github.io/My-portfolio/)
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 💾 GitHub Pages (for deployment)
 
 ## 📁 Features
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
-
+* Responsive design for all screen sizes 📱💻
+* Smooth scroll and animation effects ✨
+* Clean and modular React components 🧩
+* Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+* Fully customizable with Tailwind CSS utility classes 🎯
 
 ## 🧑‍💻 How to Use
 
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+git clone https://github.com/rahul-3613/My-portfolio.git
+cd My-portfolio
+```
 
 ### 2. Install Dependencies
 
@@ -36,7 +35,7 @@ cd your-repo-name
 npm install
 ```
 
-### 3. Run the App
+### 3. Run the App Locally
 
 ```bash
 npm start
@@ -48,12 +47,13 @@ npm start
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+### 5. Deploy to GitHub Pages
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+```bash
+npm run deploy
+```
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+This project was created with ❤️ by **Rahul Shingha**.
+Feel free to ⭐ this repository if you like it and share!
