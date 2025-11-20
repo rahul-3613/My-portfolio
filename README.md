@@ -12,8 +12,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 * 🎨 Tailwind CSS
 * 💾 GitHub Pages (for deployment)
 
-* <h3 align="center">Passionate Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
+
 
 
 ## 📁 Features
@@ -40,5 +39,10 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 
 
-This project ❤️ by **Rahul Shingha**.
+This project create ❤️ by **Rahul Shingha**.
+
+
+
+* <h3 align="center">Passionate Competitive Programmer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
 
